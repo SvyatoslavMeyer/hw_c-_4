@@ -1,0 +1,15 @@
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/bin/Debug/net6.0/Task_25
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/bin/Debug/net6.0/Task_25.deps.json
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/bin/Debug/net6.0/Task_25.runtimeconfig.json
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/bin/Debug/net6.0/Task_25.dll
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/bin/Debug/net6.0/Task_25.pdb
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.csproj.AssemblyReference.cache
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfoInputs.cache
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfo.cs
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.csproj.CoreCompileInputs.cache
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.dll
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/refint/Task_25.dll
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.pdb
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/Task_25.genruntimeconfig.cache
+/Users/svyatoslavmeyer/Desktop/Мое/УЧЕба/hw_c#_4/hw_c#_4/Task_25/obj/Debug/net6.0/ref/Task_25.dll
